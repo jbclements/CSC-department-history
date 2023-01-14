@@ -2,3 +2,8 @@
 
 This repository exists entirely for the sake of the accompanying wiki. 
 Click on the "wiki" link to see the actual history.
+
+... But actually I'm starting to regret not having this in the repo
+itself, so that we can get versioning. I believe that now that the
+github pages will render markdown nicely, it's probably pretty straightforward
+to just put the content in the repo. Let's try it...
