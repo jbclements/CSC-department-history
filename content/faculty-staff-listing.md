@@ -1,17 +1,22 @@
 
 ## Full-Time Faculty
 
+Starting dates for some faculty precede the establishment of the
+department in mid-1969. However, ending dates for certain Philosophy and
+Statistics faculty indicate when they left the department, not
+necessarily when they left the university.
+
+* James T. Culbertson, (1953-1970), TT, Philosophy, Ph.D., Yale
 * William O. Buschman, (1956-1980), TT, Csc, Ed.D., Oregon State University
-* James T. Culbertson, (1953-1977), TT, Philosophy, Ph.D., Yale
 * Robert H. Dourson, (1967-1987), TT, Csc, M.S., Cal Tech
-* Kenneth F. Fuller, (1960-?), TT, Statistics, Ph.D., Columbia University
+* Kenneth F. Fuller, (1960-1971+?), TT, Statistics, Ph.D., Columbia University
 * Curtis F. Gerald, (1964-1980), TT, Csc, Ph.D., MIT
 * Reino Hannula, (1962-1981), TT, Csc, M.S., UCLA
 * Elmo A. Keller, (1963-2000), TT, Csc, Ph.D., Iowa State University
 * Y. Leon Maksoudian, (1963-1999), TT, Statistics, Ph.D., U. of Minnesota
-* John Groves, (1968?), TT, Statistics, Ph.D., Kansas State University
+* John Groves, (1968-1971+?), TT, Statistics, Ph.D., Kansas State University
 * Daniel F. Stubbs, (1963-1997), TT, Csc, Ph.D., Rensselaer Polytechnic
-* Arthur Bethel, (1968-1970), TT, Philosophy, M.A., UCSB
+* Arthur Bethel, (1968-1970), TT, Philosophy, M.A., UCSB 
 * Ray E. Boche, (1969-1999), TT, Csc, Ph.D., Texas Tech University (former Director of Computer Center)
 * Mary Dolores Sweet, (1969-1970), TT, Csc, Ph.D., University of Missouri (switched to Philosophy Department)
 * Neil W. Webre, (1969-1993), TT, Csc, A.M., Harvard University
@@ -22,6 +27,8 @@
 * John Y. S. Hsu, (1970-2002), TT, Csc, Ph.D., UC Berkeley
 * John M. Rogers, (1970?), TT, Statistics, Ph.D., Virginia Tech
 * John B. Connely, (1970-2000), TT, Csc, Ph.D., USC (Transfer from Education)
+* Thomas V. Cahill, (1970?-?)
+* Joseph B. Stefanac, (1970?-?)
 * James P. Bohle, (1971-1973), TT, Csc, M.S., University of Oregon
 * Charles J. Welty, (1971-1973), TT, Csc, M.S., UC Berkeley
 * Corine A. Bickley, (1972-1974), TT, Csc, M.S., Washington State University
