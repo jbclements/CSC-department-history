@@ -1,5 +1,5 @@
 
-Full-Time Faculty
+## Full-Time Faculty
 
 * William O. Buschman, (1956-1980), TT, Csc, Ed.D., Oregon State University
 * James T. Culbertson, (1953-1977), TT, Philosophy, Ph.D., Yale
