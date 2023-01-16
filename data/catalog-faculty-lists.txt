@@ -33,7 +33,7 @@ Hannula
 John Y. S. Hsu
 Keller
 Maksoudian
-Rogers
+John M. Rogers
 Stubbs
 Webre
 Charles J. Welty
@@ -48,6 +48,8 @@ Buschman
 Butler
 Tsun S. Chow
 James C. Daly
+Dourson
+Evans
 Gerald
 Groves
 Hannula
@@ -55,7 +57,7 @@ Hsu
 Keller
 Sham S. Luthra
 Maksoudian
-Rogers
+John M. Rogers
 Stubbs (Head)
 Webre
 Welty
@@ -81,7 +83,7 @@ Hsu
 Keller
 Luthra
 Maksoudian
-Rogers
+John M. Rogers
 Stubbs (Head)
 Webre
 Wu
@@ -104,7 +106,7 @@ Hsu
 Keller
 Luthra
 Maksoudian
-Rogers
+John M. Rogers
 Stubbs (Head)
 Webre
 Wu
@@ -128,7 +130,7 @@ Hsu
 Keller
 Luthra
 Maksoudian
-Rogers
+John M. Rogers
 Robert K. Smidt
 Stubbs
 Webre
@@ -155,7 +157,7 @@ Keller
 Luthra
 Maksoudian
 Roxy L. Peck
-Rogers
+John M. Rogers
 Joseph P. Sharp
 Smidt
 Stubbs
@@ -166,6 +168,7 @@ Wu
 1984-86
 
 # "Computer Science and Statistics Department"
+# Emile Attala is "Associate Provost for Information Systems (Interim)"
 
 Bayne
 Beug
@@ -184,7 +187,7 @@ Maksoudian
 Zane C. Motteler
 Peck
 Cornel K. Pokorny
-Rogers
+John M. Rogers
 Smidt
 Kent D. Smith
 Linda C. Stanberry
@@ -217,7 +220,7 @@ Motteler
 Leonard D. Myers
 Pokorny
 Stubbs
-Webre (Head) # head not chair?
+Webre (Head)
 Wheatley
 
 1988-1990
@@ -307,7 +310,7 @@ John B. Connely
 Charles H. Dana
 Gene Fisher
 Joseph E. Grimes
-John Y. Hsu
+John Y. S. Hsu
 Elmo A. Keller
 Sham S. Luthra
 Leonard D. Myers
@@ -320,7 +323,7 @@ Patrick O. Wheatley
 
 1997-98
 
-James L. Beug
+James L. Beug (Chair)
 Raymond E. Boche
 Lois H. Brady
 W. Chris Buckalew
@@ -330,7 +333,7 @@ Charles H. Dana
 Gene Fisher
 Joseph E. Grimes
 Lewis E. Hitchner
-John Y. Hsu
+John Y. S. Hsu
 Elmo A. Keller
 Mei-Ling Liu
 Sham S. Luthra
@@ -356,7 +359,7 @@ Charles H. Dana
 Gene Fisher
 Joseph E. Grimes
 Lewis E. Hitchner
-John Y. Hsu
+John Y. S. Hsu
 Elmo A. Keller
 Mei-Ling Liu
 Sham S. Luthra
@@ -382,7 +385,7 @@ Charles H. Dana
 Gene Fisher
 Joseph E. Grimes
 Lewis E. Hitchner
-John Y. Hsu
+John Y. S. Hsu
 Elmo A. Keller
 Mei-Ling Liu
 Sigurd Meldal
@@ -408,7 +411,7 @@ Charles H. Dana
 Gene Fisher
 Joseph E. Grimes
 Lewis E. Hitchner
-John Y. Hsu
+John Y. S. Hsu
 Elmo A. Keller
 Mei-Ling Liu
 Sigurd Meldal
@@ -435,8 +438,8 @@ Charles H. Dana
 Gene Fisher
 Joseph E. Grimes
 Lewis E. Hitchner
-John Y. Hsu
-Timothy J. Kearnms
+John Y. S. Hsu
+Timothy J. Kearns
 Elmo A. Keller
 Franz J. Kurfess
 Mei-Ling Liu
@@ -444,7 +447,7 @@ Sigurd Meldal (Chair)
 Leonard D. Myers
 Phillip L. Nico
 Hasmik Gharibyan
-Cornel K. Pokomy
+Cornel K. Pokorny
 Erika Rogers
 Hugh Smith
 Clinton A. Staley
@@ -463,7 +466,7 @@ John B. Connely
 Gene Fisher
 Joseph E. Grimes
 Lewis E. Hitchner
-John Y. Hsu
+John Y. S. Hsu
 Aaron W. Keen
 Diana M. Franklin
 Timothy J. Kearns (Chair)
@@ -473,7 +476,7 @@ Mei-Ling Liu
 Sigurd Meldal
 Leonard D. Myers
 Phillip L. Nico
-Hasmik Gharibyan Paulson
+Hasmik Gharibyan
 Cornel K. Pokorny
 Erika Rogers
 Hugh Smith
@@ -493,7 +496,7 @@ Hasmik Gharibyan
 Joseph E. Grimes
 Michael L. Haungs
 Lewis E. Hitchner
-John Y. Hsu
+John Y. S. Hsu
 Timothy J. Kearns (Chair)
 Aaron W. Keen
 Elmo A. Keller
@@ -527,7 +530,7 @@ Aaron W. Keen
 Franz J. Kurfess
 Mei-Ling Liu
 Phillip L. Nico
-Cornel K. Pokornmy
+Cornel K. Pokorny
 John S. Seng
 Hugh Smith
 Clinton A. Staley

@@ -9,6 +9,8 @@
                            ->
                            (Listof (Listof String)))])
 
+(provide faculty-present-bools)
+
 (define-runtime-path HERE ".")
 
 (define lines (file->lines (build-path HERE "..//data/catalog-faculty-lists.txt")))
@@ -149,16 +151,24 @@
 ;; guaranteed not to contain duplicates by above check:
 (define catalog-start-years (sort (map catalog-start-year catalogs) <))
 
+(define (num-leading-falses [lob : (Listof Boolean)]) : Natural
+  (cond [(empty? lob) 0]
+        [else (cond [(first lob) 0]
+                    [else (add1 (num-leading-falses (rest lob)))])]))
+
 (define faculty-present-bools
-  (for/list : (Listof Any)
-    ([f (in-list fullnames)])
-    #;(for/fold ([range]))
-    (define present-bools
-      (for/list : (Listof Boolean) ([year (in-list catalog-start-years)])
-        (set-member? (hash-ref year-present year) f)))
-    #;(unless (contiguous-trues? present-bools)
-      (eprintf "faculty member ~a has discontiguous presences\n" f))
-    (list f present-bools)))
+  ((inst sort (List String (Listof Boolean)) Natural)
+   (for/list : (Listof (List String (Listof Boolean)))
+     ([f (in-list fullnames)])
+     #;(for/fold ([range]))
+     (define present-bools
+       (for/list : (Listof Boolean) ([year (in-list catalog-start-years)])
+         (set-member? (hash-ref year-present year) f)))
+     (unless (contiguous-trues? present-bools)
+       (eprintf "faculty member ~a has discontiguous presences\n" f))
+     (list f present-bools))
+   <
+   #:key (compose num-leading-falses (inst cadr Any (Listof Boolean)))))
 
 
 
