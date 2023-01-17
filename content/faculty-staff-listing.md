@@ -125,8 +125,8 @@ necessarily when they left the university.
 * Ayaan Kazerouni, (2020-), TT, Ph.D., Virginia Tech
 * Nasir Eisty, (2020-2021), TT, Ph.D., University of Alabama
 * Stephen Beard, (2020-), TT, Ph.D., Princeton University
-* Joydeep Mukherjee, (2020-), TT, Ph.D., University of Calgary, Canada
 * BJ Klingenberg (2020-), M.S., University of Arizona
+* Joydeep Mukherjee, (2021-), TT, Ph.D., University of Calgary, Canada
 * April Grow, (2021-), TT, Ph.D., UC Santa Cruz
 * Mugizi Rwebangira, (2021-), TT, Ph.D., Carnegie Mellon University
 * Rodrigo Canaan, (2021-), TT, Ph.D., New York University
