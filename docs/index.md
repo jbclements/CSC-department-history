@@ -13,23 +13,25 @@ to provide technological leadership to the university community.
 
 ## Table of Contents
 
-[Note: not everything is linked here, e.g. the chapter Hannula & the faculty & staff lists ]
 
+
+
+* [List of Faculty and Staff](faculty-staff-listing.md)
 * [Introduction](./Introduction.md)
-* [[1969–1972: Curtis Gerald|1969 1972 Gerald]]
-* [[1972–1977: Daniel Stubbs|1972 1977 Department Head Daniel Stubbs]]
-* [[1977–1983: Attala|1977 1983 Attala]]
-* [[1983–1986: Webre|1983 1986 Webre]]
-* [[1987–1990: Camp|1987 1990 Camp]]
-* [[1990–1993: Patrick Wheatley|1990 1993 Wheatley]]
-* [[1993–2000: Jim Beug|1993 2000 Beug]]
-* [[2000–2001: Sigurd Meldal|2000 2001 Meldal]]
-* [[2001–2005: Tim Kearns|2001 2005 Kearns]]
-* [[2005–2006: Mei-Ling Liu|2005 2006 Liu]]
-* [[2006–2016: Ignatios Vakalis|Chair Ignatios Vakalis]]
-* [[2016–2017: Franz Kurfess|Chair Franz Kurfess]]
-* [[2017–present: Chris Lupo|Chair Chris Lupo]]
-
+* [1969–1972: Curtis Gerald](./1969-1972-Gerald.md)
+* [1972–1977: Daniel Stubbs](./1972 1977-Department-Head-Daniel-Stubbs.md)
+* [1977–1983: Attala](./1977-1983-Attala.md)
+* [1983–1986: Webre](./1983-1986-Webre.md)
+* [1987–1990: Camp](./1987-1990-Camp.md)
+* [1990–1993: Patrick Wheatley](./1990-1993-Wheatley.md)
+* [1993–2000: Jim Beug](./1993-2000-Beug.md)
+* [2000–2001: Sigurd Meldal](./2000-2001-Meldal.md)
+* [2001–2005: Tim Kearns](./2001-2005-Kearns.md)
+* [2005–2006: Mei-Ling Liu](./2005-2006-Liu.md)
+* [2006–2016: Ignatios Vakalis](./Chair-Ignatios-Vakalis.md)
+* [2016–2017: Franz Kurfess](./Chair-Franz-Kurfess.md)
+* [2017–present: Chris Lupo](./Chair-Chris-Lupo.md)
+# [Hannula](./Hannula.md)
 
 
 
