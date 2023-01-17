@@ -15,7 +15,7 @@ to provide technological leadership to the university community.
 
 [Note: not everything is linked here, e.g. the chapter Hannula & the faculty & staff lists ]
 
-* [[Introduction]]
+* [Introduction](./Introduction.md)
 * [[1969–1972: Curtis Gerald|1969 1972 Gerald]]
 * [[1972–1977: Daniel Stubbs|1972 1977 Department Head Daniel Stubbs]]
 * [[1977–1983: Attala|1977 1983 Attala]]
