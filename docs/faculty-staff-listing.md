@@ -66,7 +66,7 @@ necessarily when they left the university.
 * Lewis Hitchner, (1991-2007), TT, Csc, Ph.D., University of Utah
 * Mei-ling Liu, (1994-2010,2012), TT, Csc, Ph.D., UCSB
 * Chris Scheiman, (1994-2000), TT, Csc, Ph.D., UCSB
-* Emilia E. "Millie" Buckalew (Villarreal), TT, (1994-2000?), TT, Csc, Ph.D., University of Texas
+* Emilia E. "Millie" Buckalew (Villarreal), (1994-2000?), TT, Csc, Ph.D., University of Texas
 * Nancy J. Parham (?-2009), M.S., CSU San Bernardino
 * Kevin O'Gorman (?-2011), Ph.D., UC Santa Barbara
 * Mark Hutchenreuther (1997-2012), M.S., CSU Northridge
@@ -192,7 +192,7 @@ necessarily when they left the university.
 * Lucas Pierce (2022-)
 * ? Pond (2004)
 * Greg Porter (2009)
-* Jakob Reichl (2017-2018,2022)
+* Jakob Reichl (2017-2018, 2022-2023)
 * Lorraine Rellick (2003)
 * Robert Ross (2003-2009), Ph.D., UC Berkeley
 * Lonny Rollins (2003-2007)
